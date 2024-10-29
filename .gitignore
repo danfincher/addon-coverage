@@ -1,4 +1,3 @@
-dist/
 node_modules/
 storybook-static/
 build-storybook.log
@@ -7,3 +6,6 @@ build-storybook.log
 yarn-*.log
 coverage
 .nyc_output
+.npmrc
+yarn.lock
+package-lock.json
